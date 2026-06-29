@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(3, 42, 68);
+}
+
+.first_paragraph {
+    color:rgb(171, 169, 169);
+}
+
+h1 {
+    color:rgb(181, 121, 2);
+}
+.parent {
+    background-color: rgb(66, 94, 160);
+}
+
+.item {
+    display: inline-block;
+    width:49.8%;
+    height:230px;
+}
+
+.item p{
+    display: inline-block;
+    width:49.7%;
+    height:100%;
+    vertical-align: top;
+}
+.item img{
+    display: inline-block;
+    width:49.7%;
+    height:100%;
+
+}
+
+
+
+
+

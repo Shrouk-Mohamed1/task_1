@@ -1,0 +1,34 @@
+.item {
+    display: inline-block;
+    width: 49.7%;
+    vertical-align: top;
+}
+
+img {
+    width: 100%;
+    height: 650px;
+}
+
+h1{
+    text-align: center;
+}
+
+.line {
+    background-color: red;
+    height: 2px;
+    width: 100%;
+    text-align: center;
+}
+
+.labels {
+    display: inline-block;
+    width: 20%;
+    vertical-align: top;
+}
+
+.inputs {
+    display: inline-block;
+    width: 70%;
+    vertical-align: top;
+}
+
